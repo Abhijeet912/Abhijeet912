@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there , I am Abhijeet Anand 👋
+Graduated in 2024 from Jodhpur Institute of Engineering and Technology
+- 🔭 I’m currently working on MERN Stack development
+- 🌱 I’m currently learning Next JS.
+- 💬 Ask me about technology , some more technology and more and more technology
+- 📫 How to reach me: abhijeet.anand837@gmail.com
+- Fun fact: Pick the right horses, don't ride on a trojan.
 
 <!--
 **Abhijeet912/Abhijeet912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
