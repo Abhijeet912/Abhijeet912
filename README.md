@@ -1,11 +1,12 @@
 <img src="Hello World; Welcome to Github.png" alt="My Image" title="Image Title">
-## Hi there , I am Abhijeet Anand 👋
-Graduated in 2024 from Jodhpur Institute of Engineering and Technology
-- 🔭 I’m currently working on MERN Stack development
-- 🌱 I’m currently learning Next JS.
-- 💬 Ask me about technology , some more technology and more and more technology
-- 📫 How to reach me: abhijeet.anand837@gmail.com
-- Fun fact: Pick the right horses, don't ride on a trojan.
+<br>
+<h1> Hi there , I am Abhijeet Anand 👋 </h1><br>
+Graduated in 2024 from Jodhpur Institute of Engineering and Technology <br>
+- 🔭 I’m currently working on MERN Stack development <br>
+- 🌱 I’m currently learning Next JS. <br>
+- 💬 Ask me about technology , some more technology and more and more technology <br>
+- 📫 How to reach me: abhijeet.anand837@gmail.com  <br>
+- Fun fact: Pick the right horses, don't ride on a trojan. <br>
 
 <!--
 **Abhijeet912/Abhijeet912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
